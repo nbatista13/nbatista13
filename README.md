@@ -1,7 +1,6 @@
 ### Hi there 👋 I am Nailton Batista
 - 🔭 I work as QA on web e-commerce project
 - 🌱 I’m currently studying API tests and automated test with Selenium and JAVA
-- 😄 Pronouns: he/him
 ##
 
 <div> 
