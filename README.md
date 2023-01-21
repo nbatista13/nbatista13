@@ -2,6 +2,7 @@
 - 🔭 I work as QA on web e-commerce project
 - 🌱 I’m currently studying API tests and automated test with Selenium and JAVA
 ##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbatista13&theme=midnight-purple&show_icons=true)
 
 <div> 
   <a href = "mailto:nailton.oliveira01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
