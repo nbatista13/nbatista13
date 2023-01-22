@@ -1,6 +1,11 @@
-### Hi there 👋 I am Nailton Batista
-- 🔭 I work as QA on web e-commerce project
-- 🌱 I’m currently studying API tests and automated test with Selenium and JAVA
+### **Welcome to my GitHub profile!** 👋
+
+I am a QA Engineer and I have skills in writing test cases, test planning, test execution, bug reporting and result analysis, also creation of QA reports, currently focusing on improving my skills in web and mobile automation testing to increase efficiency and ensure higher quality in software.
+
+On this profile, you will find my personal projects, including web automation and mobile automation projects(soon😊).
+
+Feel free to take a look around and let me know if you have any questions or feedback!
+
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbatista13&theme=midnight-purple&show_icons=true)
 
