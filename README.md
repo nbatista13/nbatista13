@@ -1,6 +1,6 @@
 ### **Welcome to my GitHub profile!** 👋
 
-I am a QA Engineer and I have skills in writing test cases, test planning, test execution, bug reporting and result analysis, also creation of QA reports, currently focusing on improving my skills in web and mobile automation testing to increase efficiency and ensure higher quality in software.
+I am a QA Engineer and I have skills in test planning, writing test cases in Gherkin (From BDD), test execution, bug reporting and result analysis, also creation of QA reports and Dashboards at Jira, currently focusing on improving my skills in web and mobile automation testing to increase efficiency and ensure higher quality in software.
 
 On this profile, you will find my personal projects, including web automation and mobile automation projects(soon😊).
 
